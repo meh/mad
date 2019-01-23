@@ -126,8 +126,8 @@ other than "efficiency".
 Their relationships with other characters, their general orientation, their
 mood, they can all be used to make the best decision.
 
-Projects are quests
--------------------
+Projects are quests, tasks are objectives
+-----------------------------------------
 Projects don't exist, quests do, and products are just story arcs.
 
 You start a quest, you know what the quest is about, making this software
