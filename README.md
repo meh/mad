@@ -1,5 +1,5 @@
-Management & Developers
-=======================
+Managers & Developers
+=====================
 The new form of role playing adventures.
 
 Problems
