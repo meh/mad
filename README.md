@@ -128,7 +128,8 @@ mood, they can all be used to make the best decision.
 
 Projects are quests, tasks are objectives
 -----------------------------------------
-Projects don't exist, quests do, and products are just story arcs.
+Projects don't exist, quests do, a project may be getting to a spcific version
+of a library, or releasing a product.
 
 You start a quest, you know what the quest is about, making this software
 thing, but to do that we need to work towards objectives, that may require
@@ -148,13 +149,32 @@ objective, and you don't want to limit yourself to people in a "team".
 But then you may ask, where do I sit people if anyone can work with anyone? And
 that brings us to the next point.
 
-Teams kind of exist, as guilds
-------------------------------
+Ok, teams kind of exist, as guilds
+----------------------------------
 Guilds are groups of characters united by a specific area of expertise or
 interest, for instance a Backend Developers would all be part of the Backend
 guild, Embedded Developers of the Embedded guild and so on.
 
 For one quest I may need two Embedded Developers, three Backend Developers and
 one App Developer, and while they will all have to camp together to regain
-energy and plan the next move, they'll get the most help out of their other
-guild members.
+energy and plan the next move, they'll get the most help out of the other guild
+members.
+
+Milestones are arcs
+-------------------
+Milestones instead are known as arcs, which are a collection of quests that
+could be accomplished by different parties.
+
+Project plans are paths
+-----------------------
+In any adventure what defines your story is the path you take, the quests you
+embark on, the objectives you go for, the characters and parties you do them
+with, and in which order.
+
+Products are artifacts
+----------------------
+When defining a product on top of having projects to complete and tasks to
+accomplish there are requirements to define.
+
+It's useful to link these requirements with tasks and projects, so that they
+can be kept track of.
